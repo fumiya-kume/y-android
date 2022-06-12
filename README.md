@@ -4,12 +4,16 @@
 
 本プロジェクトは株式会社ゆめみ（以下弊社）が、弊社に Android エンジニアを希望する方に出す課題のベースプロジェクトです。本課題が与えられた方は、下記の概要を詳しく読んだ上で課題を取り組んでください。
 
+
+<details>
+<summary>共通情報</summary>
+
 ## アプリ仕様
 
 本アプリは GitHub のリポジトリを検索するアプリです。
 
 <img src="docs/app.gif" width="320">
-
+  
 ### 環境
 
 - IDE：Android Studio Arctic Fox | 2020.3.1 Patch 1
@@ -47,6 +51,8 @@ Issues を確認した上、本プロジェクトを [**Duplicate** してくだ
 
 提出された課題の評価ポイントに関しては、[こちらの記事](https://qiita.com/blendthink/items/aa70b8b3106fb4e3555f)に詳しく書かれてありますので、ぜひご覧ください。
 
+</details>
+  
 # Note 📝
 
 <details>
