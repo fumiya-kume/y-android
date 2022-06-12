@@ -46,3 +46,13 @@ Issues を確認した上、本プロジェクトを [**Duplicate** してくだ
 ## 参考記事
 
 提出された課題の評価ポイントに関しては、[こちらの記事](https://qiita.com/blendthink/items/aa70b8b3106fb4e3555f)に詳しく書かれてありますので、ぜひご覧ください。
+
+# Note 📝
+
+<details>
+<summary>https://github.com/fumiya-kume/y-android/issues/1#issue-1268571630</summary>
+```
+- [ ] Ktlintの導入
+- [ ] Android Studioを使ったコードフォーマット
+```
+</details>
