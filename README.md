@@ -57,8 +57,8 @@ Issues を確認した上、本プロジェクトを [**Duplicate** してくだ
 
 <details>
 <summary>https://github.com/fumiya-kume/y-android/issues/1#issue-1268571630</summary>
-```
+  
 - [ ] Ktlintの導入
 - [ ] Android Studioを使ったコードフォーマット
-```
+
 </details>
