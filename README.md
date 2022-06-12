@@ -4,6 +4,18 @@
 
 本プロジェクトは株式会社ゆめみ（以下弊社）が、弊社に Android エンジニアを希望する方に出す課題のベースプロジェクトです。本課題が与えられた方は、下記の概要を詳しく読んだ上で課題を取り組んでください。
 
+# アプリのアーキテクチャについて
+
+[Android Developer guide](https://developer.android.com/topic/architecture) を基本として過剰過ぎず質素すぎないアーキテクチャを採用する。
+
+```mermaid
+flowchart LR
+A[View] -->|"call back"| B(ViewModel)
+B -->|State| A
+
+B --> C{UseCase}
+C -->|One| D[Repository]
+```
 
 <details>
 <summary>共通情報</summary>
